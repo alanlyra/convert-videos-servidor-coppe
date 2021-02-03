@@ -1,0 +1,22 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "del": "^6.0.0",
+    "ffmpeg": "0.0.4",
+    "file-extension": "^4.0.5",
+    "is-video": "^1.0.1",
+    "rename": "^1.0.4",
+    "rename-overwrite": "^3.0.0",
+    "shelljs": "^0.8.4",
+    "walkdir": "^0.4.1"
+  }
+}
